@@ -320,7 +320,7 @@ public class Ejecutora_2 {
         Ranking = (ArrayList<Persona>) Jugadores.clone();
         /*
             estoy editando la branch    
-            
+            dsjkfajfkdsjfksajfskafjdsaklfjsk ola
             ESTO YA NO ES IMPORTANTE
             En esta funcion se debe implementar un algoritmo que muestre una tabla con los datos de cada jugadores ordenados por su ranking
             Ejemplos -> 
