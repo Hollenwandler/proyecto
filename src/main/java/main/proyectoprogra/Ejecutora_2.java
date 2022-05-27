@@ -319,6 +319,8 @@ public class Ejecutora_2 {
     public void imprimeRanking(){
         Ranking = (ArrayList<Persona>) Jugadores.clone();
         /*
+            estoy editando la branch    
+            
             ESTO YA NO ES IMPORTANTE
             En esta funcion se debe implementar un algoritmo que muestre una tabla con los datos de cada jugadores ordenados por su ranking
             Ejemplos -> 
@@ -330,7 +332,7 @@ public class Ejecutora_2 {
         */
         
         Collections.sort(Ranking, new comparaRanking());//esto te ordena la lista de mayor a menor
-        
+        System.out.println("COITOOOOOOOOOOOOOOOOOOOOO");
         for(Persona p : Jugadores){
             System.out.println(p.getNombre()+" kdr-> "+p.getPorcentajeRanking());
         }
