@@ -319,7 +319,7 @@ public class Ejecutora_2 {
     public void imprimeRanking(){
         Ranking = (ArrayList<Persona>) Jugadores.clone();
         /*
-            RECORDAR ESTO ES MUUUUUUY IMPORTANTE
+            ESTO YA NO ES IMPORTANTE
             En esta funcion se debe implementar un algoritmo que muestre una tabla con los datos de cada jugadores ordenados por su ranking
             Ejemplos -> 
                         
